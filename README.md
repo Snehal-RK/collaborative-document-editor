@@ -1,18 +1,3 @@
-# collaborative-document-editor
-
-*Company* : CODTECH IT SOLUTIONS
-
-*Name* : Ms. SNEHAL RAJENDRA KAMBLE
-
-*Intern ID* : CT08IMF
-
-*Domain* : FULL STACK WEB DEVELOPMENT
-
-*Duration* : 4 weeks
-
-*Mentor* : NEELA SANTOSH
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 *MERN-DOC | Real Time Collaborative Document Editor* 
   - is a powerful and intuitive web application built using the *MERN* stack (MongoDB, Express.js, React, and Node.js), providing a seamless real-time, multi-user document editing experience. This application allows multiple users with the same identifier to simultaneously collaborate on a single document, regardless of their location or device.  MERN-DOC is designed to handle multiple instances running on different devices without encountering errors, ensuring a smooth and uninterrupted editing process for all collaborators.
